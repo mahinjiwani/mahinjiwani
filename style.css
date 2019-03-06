@@ -1,0 +1,17 @@
+.jumbotron {
+    /* width: 100%; */
+    height: 500px; 
+    background-image: url("https://static1.squarespace.com/static/597aa1b7ebbd1a40ad87258a/t/59b395653e00be04ab9f8964/1504941423996/contact+me?format=1000w");
+    background-repeat: no-repeat;
+    background-size: cover;
+    zoom: 80%
+
+}
+
+#form {
+    padding: 12px 180px
+}
+
+#Image {
+    bat: center;
+}
